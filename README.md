@@ -8,4 +8,7 @@ Per instructions, the app has a search text box at the top that only searches wh
 
 To run the app, you need to add your own Flickr API key in the `local.properties` file, as such: `flickr_api="YOUR_API_KEY"`
 
-video of app working: [![video](./docs/Screen_recording_20251207_183059.mp4)](./docs/Screen_recording_20251207_183059.mp4)
+video of app working: 
+
+https://github.com/user-attachments/assets/ea1460a3-c2b0-4068-97dd-8afc3cf188a5
+
